@@ -25,9 +25,9 @@ This project is part of my CAHSI LREU research on improving accessibility in vid
 # Installation & Running the Game
 1. Clone this repository:
 
-    git clone (github repo link)
+    git clone https://github.com/rosanajosepha/accessible-game-prototype.git
 
-    cd (repo-name)
+    cd accessible-game-prototype
 
 2. Open the project in Unity (recommended version: 2022+).
 
